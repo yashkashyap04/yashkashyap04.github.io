@@ -1,0 +1,14 @@
+#name {
+    font-family: 'Times New Roman';
+    font-size: 50;
+}
+
+.subheading {
+    font-size: 30;
+}
+
+.content {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
